@@ -72,7 +72,7 @@ setup(
         "eth-ape>=0.8.4,<0.9",
         "ethpm-types",  # Use the version ape requires
         "eth-pydantic-types",  # Use the version ape requires
-        "packaging",  # Use the version ape requires
+        "packaging<24,>=23.1",  # Use the version ape requires
         "requests",
     ],
     python_requires=">=3.9,<4",
