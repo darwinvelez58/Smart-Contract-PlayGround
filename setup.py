@@ -71,7 +71,7 @@ setup(
         "py-solc-x>=2.0.2,<3",
         "eth-ape>=0.8.4,<0.9",
         "ethpm-types",  # Use the version ape requires
-        "eth-pydantic-types",  # Use the version ape requires
+        "eth-pydantic-tpip install ape-solidityypes",  # Use the version ape requires
         "packaging<24,>=23.1",  # Use the version ape requires
         "requests",
     ],

@@ -1,6 +1,0 @@
-dependencies:
-  - name: remapping
-    local: ../Dependency
-
-  - name: dependencyofdependency
-    local: ../DependencyOfDependency
