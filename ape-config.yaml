@@ -1,0 +1,4 @@
+dependencies:
+  - name: chainlink
+    github: smartcontractkit/chainlink-brownie-contracts
+    ref: 1.2.0
